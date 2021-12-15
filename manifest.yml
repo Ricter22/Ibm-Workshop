@@ -1,0 +1,5 @@
+applications:
+- name: practical-golick
+  memory: 256M
+  host: practical-golick
+  buildpack: staticfile_buildpack
